@@ -31,7 +31,7 @@ const signIn = () => {
           />
           
           <Text className="text-2xl text-white text-semibold mt-10 font-psemibold">
-            Log in to Aora
+            Sign in to Aora
           </Text>
           <FormField 
             title="Email"
